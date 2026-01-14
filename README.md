@@ -17,7 +17,7 @@ The Dashboard was built using the following tools and technologies:
 4. Data Source
 Source: a sample set from kaggle
 
-Data on ~350+ records of sales for the company awesome chocolates, inclusing details of the sales persons, sales teams, calander ranging from 1st january 2023 to 1st february 2024.
+ Data on ~350+ records of sales for the company awesome chocolates, inclusing details of the sales persons, sales teams, calander ranging   from 1st january 2023 to 1st february 2024.
 
 5. Features / Highlights
 Business Problem:
