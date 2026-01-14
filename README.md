@@ -30,7 +30,7 @@ Walkthrough of My Key Visuals:
 🃏 Cards - Use of cards to show the raw KPI values for instant representation.  
 ✅ CLustered Column Chart - Used to make a custom target status indicator with red and greem columns(1 for target achieved and -1 for target not achieved).  
 📊 Clustered Column Chart - Used to analyze monthly target status.  
-🗃️ Table - Used to compare metric on basis of sales person. Used conditional formating to make it visually attractive.
+🗃️ Table - Used to compare metric on basis of sales person. Used conditional formating to make it visually attractive.  
 🔤 Text Box - Used to summarize the dashboard in a written format.  
 🧩 Slicer - Used to create a dynamic comparison between the sales team (Delish, jucies, Tempo, Yummies).  
 
