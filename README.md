@@ -39,5 +39,5 @@ Employee Optimization: The HR team can use this dashboard to identify the top se
 Strategic Expansion: Product developers can use the insights to expand their product types using the sales over category insights.
 
 6. Screenshots / Demos
- ! [Dashboard Preview].(https://github.com/Anissh-Analytics/Finance-KPI-Dashboard/blob/main/Snapshot%20of%20Dashboard.png).
+![Dashboard Preview](https://github.com/Anissh-Analytics/Finance-KPI-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
 
